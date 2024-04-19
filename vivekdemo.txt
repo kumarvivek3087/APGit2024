@@ -1,2 +1,3 @@
 This is my first demo of GIT
-I will be pushing this file to my GITHUB
+
+Getting ready for second push
